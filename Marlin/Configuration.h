@@ -504,10 +504,15 @@
   //#define DEFAULT_Ki 2.25
   //#define DEFAULT_Kd 440
 
+   // Sapphire Pro itmatik
+  #define DEFAULT_Kp 12.12
+  #define DEFAULT_Ki 0.66
+  #define DEFAULT_Kd 55.40
+
   // Sapphire Pro stock hotend AutoTuned
-  #define DEFAULT_Kp 9.61
-  #define DEFAULT_Ki 0.48
-  #define DEFAULT_Kd 47.96
+  //#define DEFAULT_Kp 9.61
+  //#define DEFAULT_Ki 0.48
+ // #define DEFAULT_Kd 47.96
 
   // Sapphire Pro E3D V6 + Copper heatblock & nozzle with PT100 manually tuned
 //  #define DEFAULT_Kp 25
