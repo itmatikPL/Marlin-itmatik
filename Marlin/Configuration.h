@@ -131,7 +131,7 @@
   #define MOTHERBOARD BOARD_MKS_ROBIN_NANO
 #endif
 
-// Name displayed in the LCD "Ready" message and Info menu
+// Name displayed in the LCD "Ready" message and info menu
 #define CUSTOM_MACHINE_NAME "Sapphire Pro itmatik"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
